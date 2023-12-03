@@ -1,0 +1,94 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "2511",
+                    "short_name": "2511",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Eldridge Road",
+                    "short_name": "Eldridge Rd",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Sugar Land",
+                    "short_name": "Sugar Land",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Fort Bend County",
+                    "short_name": "Fort Bend County",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Texas",
+                    "short_name": "TX",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "United States",
+                    "short_name": "US",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "77478",
+                    "short_name": "77478",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "2511 Eldridge Rd, Sugar Land, TX 77478, USA",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 29.6536712,
+                        "lng": -95.6215579
+                    },
+                    "southwest": {
+                        "lat": 29.6535384,
+                        "lng": -95.6218588
+                    }
+                },
+                "location": {
+                    "lat": 29.6535908,
+                    "lng": -95.6216874
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": 29.6550958802915,
+                        "lng": -95.6203593697085
+                    },
+                    "southwest": {
+                        "lat": 29.6523979197085,
+                        "lng": -95.6230573302915
+                    }
+                }
+            },
+            "place_id": "ChIJ2VAQcWnnQIYRBpNKLSr5NSI",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "status": "OK"
+}
